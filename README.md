@@ -6,7 +6,7 @@
 - Fun fact: I love basketball 🏀, singing 🎵 and miniature painting 🖌️
 - Here's my Codewars profile badge:
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/ChandelierXD/badges/large)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
 
 ### Languages and tools that I use:
 
