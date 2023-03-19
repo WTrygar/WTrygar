@@ -1,9 +1,7 @@
 ### Hi there, I'm Wojciech 👋
 
-- Applied Computer Science Student 💻
-- I'm currently learning Vue.js ⚛️
-- I'm looking for a job as Web Dev or Python Dev 🐍
-- Fun fact: I love basketball 🏀, singing 🎵 and miniature painting 🖌️
+- CMDB Trainee at Volvo Group 💻
+- basketball 🏀, singing 🎵 and miniature painting 🖌️
 - Here's my Codewars profile badge:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
@@ -23,5 +21,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br>
-
-### there will be updates in the future 😄
