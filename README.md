@@ -1,6 +1,6 @@
 ### Hi there, I'm Wojciech 👋
 
-- CMDB Trainee at Volvo Group 💻
+- former CMDB Trainee at Volvo Group 💻
 - Got my bachelor's degree in applied computer science at Cracow University of Economics 💻
 - basketball 🏀, singing 🎵 and miniature painting 🖌️
 - Here's my Codewars profile badge:
