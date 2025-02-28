@@ -2,7 +2,7 @@
 
 - former junior CMDB manager at Volvo Group 💻
 - Got my bachelor's degree in applied computer science at Cracow University of Economics 💻
-- basketball 🏀, singing 🎵 and miniature painting 🖌️
+- basketball 🏀, traditional choir singing 🎵 and miniature painting 🖌️
 - Here's my Codewars profile badge:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
