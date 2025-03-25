@@ -1,9 +1,10 @@
 ### Hi there, I'm Wojciech 👋
 
-- former junior CMDB manager at Volvo Group 💻
-- Got my bachelor's degree in applied computer science at Cracow University of Economics 💻
-- basketball 🏀, traditional choir singing 🎵 and miniature painting 🖌️
-- Here's my Codewars profile badge:
+- passionate IT professional with a strong commitment to continuous learning and adopting new technologies,
+- former junior CMDB manager at Volvo Group Digital & IT 💻,
+- got my bachelor's degree in applied computer science at Cracow University of Economics 💻,
+- miniatures painting 🖌️🎨, pen & paper RPGs ✏️🎲, traditional choir singing 🎵🎶, reading 📚 (Sci-fi/fantasy, alternative education), basketball 🏀, skateboarding 🛹, computer games 👾🕹️(RPGs, metroidvanias, rougelikes),
+- here's my Codewars profile badge (mostly trained language here: Python):
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
 
