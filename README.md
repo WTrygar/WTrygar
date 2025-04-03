@@ -8,6 +8,7 @@
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
 
+https://www.codewars.com/users/WTrygar
 ### Languages and tools that I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
