@@ -4,11 +4,12 @@
 - former junior CMDB manager at Volvo Group Digital & IT 💻,
 - got my bachelor's degree in applied computer science at Cracow University of Economics 💻,
 - miniatures painting 🖌️🎨, pen & paper RPGs ✏️🎲, traditional choir singing 🎵🎶, reading 📚 (Sci-fi/fantasy, alternative education), basketball 🏀, skateboarding 🛹, computer games 👾🕹️(RPGs, metroidvanias, rougelikes),
-- here's my Codewars profile badge (mostly trained language here: Python):
+
+My Codewars profile badge (mostly trained language here: Python): https://www.codewars.com/users/WTrygar
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/WTrygar/badges/large)
 
-https://www.codewars.com/users/WTrygar
+My LeetCode profile: https://leetcode.com/u/WTrygar/
 
 Here's one of my projects on github hosting: https://wtrygar.github.io/
 ### Languages and tools that I use:
