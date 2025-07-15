@@ -14,20 +14,32 @@ My LeetCode profile: https://leetcode.com/u/WTrygar/
 Here's one of my projects on github hosting: https://wtrygar.github.io/
 ### Languages and tools that I use:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Vue" width="26px" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Astro" width="26px" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" style="padding-right:10px;" />
 <br>
 
 ### Languages and tools that I have knowlegde of:
 
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Bun" width="26px" src="https://img.icons8.com/?size=100&id=EsV6LEpL8dCq&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Svelte" width="26px" src="https://img.icons8.com/?size=100&id=Mm35TzLKahiF&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="RESTAPI" width="26px" src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Canva" width="26px" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="SCSS" width="26px" src="https://img.icons8.com/?size=100&id=09GEXzp8vRBT&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="ServiceNow" width="26px" src="https://images.icon-icons.com/2699/PNG/512/servicenow_logo_icon_168835.png" style="padding-right:10px;" />
+<img align="left" alt="MSOffice" width="26px" src="https://img.icons8.com/?size=100&id=37619&format=png&color=000000" style="padding-right:10px;" />
 <br>
