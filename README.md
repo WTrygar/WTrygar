@@ -23,7 +23,7 @@ Here's one of my projects on github hosting: https://wtrygar.github.io/
 <img align="left" alt="Vue" width="26px" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Astro" width="26px" src="https://img.icons8.com/?size=100&id=kXuRhjMIeKhk&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" style="padding-right:10px;" />
 <br>
 
 ### Languages and tools that I have knowlegde of:
@@ -36,7 +36,6 @@ Here's one of my projects on github hosting: https://wtrygar.github.io/
 <img align="left" alt="RESTAPI" width="26px" src="https://img.icons8.com/?size=100&id=Ov4kJCn8JtAH&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Canva" width="26px" src="https://img.icons8.com/?size=100&id=lAWjO4LexGga&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/?size=100&id=W0YEwBDDfTeu&format=png&color=000000" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="SCSS" width="26px" src="https://img.icons8.com/?size=100&id=09GEXzp8vRBT&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" style="padding-right:10px;" />
